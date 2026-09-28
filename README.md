@@ -6,7 +6,7 @@ A análise foi realizada em Python e complementada com um dashboard interativo d
 
 ## Dashboard
 
-![Dashboard Instacart](painel/dashboard_instacart.png)
+![Dashboard Instacart](dashboard/dashboard_instacart.png)
 
 ### 🔗 Dashboard interativo
 
